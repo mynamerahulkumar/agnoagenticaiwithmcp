@@ -1,2 +1,25 @@
-# agnoagenticaiwithmcp
-Agno Agentic AI with MCP
+# Agno_Rag_Agentic_AI_project
+Agno_Rag_Agentic_AI_project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPENAI_API_KEY=

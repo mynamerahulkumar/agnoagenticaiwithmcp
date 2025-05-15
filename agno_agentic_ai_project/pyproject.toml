@@ -1,0 +1,21 @@
+[project]
+name = "agno-agentic-ai-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agno>=1.4.5",
+    "duckduckgo-search>=8.0.1",
+    "fastapi[standard]>=0.115.12",
+    "lancedb>=0.22.0",
+    "openai>=1.77.0",
+    "pandas>=2.2.3",
+    "pylance>=0.26.1",
+    "pypdf>=5.4.0",
+    "python-dotenv>=1.1.0",
+    "sqlalchemy>=2.0.40",
+    "streamlit>=1.45.0",
+    "tantivy>=0.24.0",
+    "yfinance>=0.2.58",
+]
